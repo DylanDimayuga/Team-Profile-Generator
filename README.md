@@ -18,6 +18,9 @@
   
   ## Usage
   This application can be started by first making sure the terminal is within the team-profile-generator directory, then the user will want to run an 'npm i' to ensure that all the dependencies are downloaded onto the computer, and then run 'node index.js' to start the application. Once started the user will just follow through the questions presented in the terminal.
+  --OR--
+  Follow the below video on how to use the application.
+  https://watch.screencastify.com/v/6vyxo9wmH5Ld3kBsbjOD
 
   ## Credits
   Northwestern University Coding Bootcamp
